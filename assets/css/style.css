@@ -1,27 +1,3 @@
 body {
   background-color: gray;
 }
-.project-cards {
-  width: 50%;
-  height: 50%
-}
-.project-1 {
-  background-image: url(../images/portfolio.PNG);
-  height: 100%
-}
-.project-2 {
-  background-image: url(../images/portfolio.PNG);
-  height: 100%
-}
-.project-3 {
-  background-image: url(../images/portfolio.PNG);
-  height: 100%
-}
-.project-4 {
-  background-image: url(../images/portfolio.PNG);
-  height: 100%
-}
-.project-5 {
-  background-image: url(../images/portfolio.PNG);
-  height: 100%
-}
