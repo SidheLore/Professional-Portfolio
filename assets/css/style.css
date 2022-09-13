@@ -1,3 +1,30 @@
-body {
-  background-color: gray;
+:root {
+  --primary-color: #355C7D;
+  --secondary-color: #d6a323;
+  --tertiary-color: white;
+ }
+
+ header {
+  
+ }
+
+ body {
+  background-color: var(--primary-color
+  );
+  display: flex;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+section.contact-info {
+  background-color: #d6a323;
+}
+
+li {
+  font-size: 14px;
+  margin-left: 10px;
+  list-style-type: circle;
+}
+
+footer {
+  text-align: center; 
 }
